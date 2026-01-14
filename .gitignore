@@ -51,3 +51,4 @@ gradleBuild
 Podfile.lock
 Pods
 xcuserdata
+.file_activity_report.json
